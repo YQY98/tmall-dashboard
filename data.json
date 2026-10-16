@@ -1,0 +1,596 @@
+{
+ "updatedAt": "2026-10-16 13:28",
+ "metrics": [
+  {
+   "key": "negRate",
+   "name": "商品负反馈率",
+   "short": "负反馈率",
+   "unit": "%",
+   "better": "low"
+  },
+  {
+   "key": "goodRate",
+   "name": "商品好评率",
+   "short": "好评率",
+   "unit": "%",
+   "better": "high"
+  },
+  {
+   "key": "pickupRate",
+   "name": "48小时揽收及时率",
+   "short": "揽收及时率",
+   "unit": "%",
+   "better": "high"
+  },
+  {
+   "key": "logisticsRate",
+   "name": "物流差评率",
+   "short": "物流差评率",
+   "unit": "%",
+   "better": "low"
+  },
+  {
+   "key": "responseRate",
+   "name": "3分钟人工响应率",
+   "short": "3分钟响应",
+   "unit": "%",
+   "better": "high"
+  },
+  {
+   "key": "wangWangRate",
+   "name": "旺旺满意度",
+   "short": "旺旺满意度",
+   "unit": "%",
+   "better": "high"
+  },
+  {
+   "key": "refundTime",
+   "name": "退款处理时长",
+   "short": "退款时长",
+   "unit": "小时",
+   "better": "low"
+  },
+  {
+   "key": "askRate",
+   "name": "平台求助率",
+   "short": "求助率",
+   "unit": "%",
+   "better": "low"
+  }
+ ],
+ "shops": [
+  {
+   "name": "黎木顶旗舰店",
+   "src": "auto",
+   "dates": [
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15"
+   ],
+   "records": {
+    "2026-10-01": {
+     "negRate": {
+      "value": 1.4148,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.46,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.63,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.46,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.39,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9062,
+      "score": 4.8
+     }
+    },
+    "2026-10-02": {
+     "negRate": {
+      "value": 1.4158,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.42,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.62,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.48,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.36,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.8981,
+      "score": 4.8
+     }
+    },
+    "2026-10-03": {
+     "negRate": {
+      "value": 1.4073,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.34,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.6,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.5,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.41,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9062,
+      "score": 4.8
+     }
+    },
+    "2026-10-04": {
+     "negRate": {
+      "value": 1.417,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.43,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.61,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.53,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.43,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.8894,
+      "score": 4.8
+     }
+    },
+    "2026-10-05": {
+     "negRate": {
+      "value": 1.4178,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.45,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.63,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.6,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.43,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.8923,
+      "score": 4.8
+     }
+    },
+    "2026-10-06": {
+     "negRate": {
+      "value": 1.4109,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.47,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.63,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.66,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.39,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9102,
+      "score": 4.7
+     }
+    },
+    "2026-10-07": {
+     "negRate": {
+      "value": 1.4118,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.49,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.62,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.37,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.68,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.43,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9073,
+      "score": 4.8
+     }
+    },
+    "2026-10-08": {
+     "negRate": {
+      "value": 1.4179,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.59,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.62,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.67,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.49,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9098,
+      "score": 4.7
+     }
+    },
+    "2026-10-09": {
+     "negRate": {
+      "value": 1.4321,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.46,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.61,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.68,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.41,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9026,
+      "score": 4.8
+     }
+    },
+    "2026-10-10": {
+     "negRate": {
+      "value": 1.4378,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.42,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.58,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.39,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.67,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.46,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9141,
+      "score": 4.7
+     }
+    },
+    "2026-10-11": {
+     "negRate": {
+      "value": 1.4355,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.41,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.59,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.72,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.52,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9197,
+      "score": 4.7
+     }
+    },
+    "2026-10-12": {
+     "negRate": {
+      "value": 1.4182,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.36,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.6,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.77,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.48,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9278,
+      "score": 4.7
+     }
+    },
+    "2026-10-13": {
+     "negRate": {
+      "value": 1.4112,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.5,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.59,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.78,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.44,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9426,
+      "score": 4.7
+     }
+    },
+    "2026-10-14": {
+     "negRate": {
+      "value": 1.4013,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.42,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.57,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.83,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.45,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9291,
+      "score": 4.7
+     }
+    },
+    "2026-10-15": {
+     "negRate": {
+      "value": 1.4008,
+      "score": 4.3
+     },
+     "goodRate": {
+      "value": 92.51,
+      "score": 4.4
+     },
+     "pickupRate": {
+      "value": 98.57,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.38,
+      "score": 4.4
+     },
+     "responseRate": {
+      "value": 99.75,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 94.81,
+      "score": 5.0
+     },
+     "refundTime": {
+      "value": 7.45,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.9169,
+      "score": 4.7
+     }
+    }
+   }
+  }
+ ]
+}
