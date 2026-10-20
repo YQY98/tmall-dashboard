@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20 08:21",
+ "updatedAt": "2026-10-20 09:51",
  "metrics": [
   {
    "key": "negRate",
@@ -80,6 +80,7 @@
     "2026-10-15",
     "2026-10-16",
     "2026-10-17",
+    "2026-10-18",
     "2026-10-19"
    ],
    "records": {
@@ -658,6 +659,40 @@
      },
      "askRate": {
       "value": 0.6857,
+      "score": 4.8
+     }
+    },
+    "2026-10-18": {
+     "negRate": {
+      "value": 1.7964,
+      "score": 4.2
+     },
+     "goodRate": {
+      "value": 90.24,
+      "score": 4.2
+     },
+     "pickupRate": {
+      "value": 98.76,
+      "score": 4.9
+     },
+     "logisticsRate": {
+      "value": 0.56,
+      "score": 4.3
+     },
+     "responseRate": {
+      "value": 99.72,
+      "score": 5.0
+     },
+     "wangWangRate": {
+      "value": 93.79,
+      "score": 4.9
+     },
+     "refundTime": {
+      "value": 7.04,
+      "score": 4.6
+     },
+     "askRate": {
+      "value": 0.7304,
       "score": 4.8
      }
     },
